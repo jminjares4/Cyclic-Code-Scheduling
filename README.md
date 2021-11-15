@@ -10,3 +10,4 @@ The cyclic_code.py has all the methods for the conditions for cyclic code schedu
 * src
   * cyclic_code.py
   * main.py
+  * makefile
